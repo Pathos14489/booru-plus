@@ -1,0 +1,5 @@
+image_json/*
+images/*
+json/*
+source_json/*
+__pycache__/*
