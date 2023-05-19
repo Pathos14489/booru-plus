@@ -2,7 +2,7 @@ import os
 from PIL import Image
 import base64
 import json
-from whereisit import extract_data_from_image
+from image_data_extraction import extract_data_from_image
 
 image_json_dir = "./image_json/"
 def check():
